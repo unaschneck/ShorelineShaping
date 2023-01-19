@@ -66,6 +66,8 @@ ShorelineShaping
                           |
                           |_____outside_data : terrestrial gravel-bedded river data from S. Birch
                           |     |___________ fetch_VisiLibity.m : (function) finds visible points at a point on shoreline (adapted from R. Palermo)
+                          |     |___________ Pint.m : (function) helper function for fetch_VisiLibity (adapted from R. Palermo)
+                          |     |___________ visilibity_polygon.m : (function) helper function for fetch_Visilibity (adapted from R. Palermo)
                           |
                           |_____shoreline_coord : coordinates for the perimeters of the lakes from ArcGIS
                                 
