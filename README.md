@@ -65,6 +65,7 @@ ShorelineShaping
                           |     |_____get_max_fetch_lakes : (function) gets maximum fetch for all points on shoreline using VisiLibity
                           |
                           |_____outside_data : terrestrial gravel-bedded river data from S. Birch
+                          |     |___________ fetch_VisiLibity.m : (function) finds visible points at a point on shoreline (adapted from R. Palermo)
                           |
                           |_____shoreline_coord : coordinates for the perimeters of the lakes from ArcGIS
                                 
