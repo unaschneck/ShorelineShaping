@@ -4,7 +4,8 @@ close all
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Author: Una Schneck (schneck.una@gmail.com)
 % 
-% 
+% This code creates contour maps for SAR bathymetry for entrainment depth for gravel and sand (computed in entrainment_depth_bathtub.m)
+%
 %--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 % External function requirements:
 %   (1) Need to smooth bathymetry using TADPOLE
