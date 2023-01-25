@@ -2,7 +2,7 @@
  Code accompaniment for Schneck et al. - The Shoreline Shaping Capability of Waves and Tides at Titan's Lakes
 
 ## Figures
-Figure 1 - SAR Mosaics from [S. Birch and A. Hayes](https://geomorph-sbirch.com/data-products/)
+Figure 1 - SAR Mosaics by [S. Birch and A. Hayes](https://geomorph-sbirch.com/data-products/)
 
 Figure 2 - model_tidal_shields.m
 
